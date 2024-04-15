@@ -6,7 +6,7 @@ authors = ["ikeryanez <ikeryanez@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.10, <3.11"
 fredapi = "^0.5.1"
 lightgbm = "^4.3.0"
 statsmodels = "^0.14.1"
@@ -17,6 +17,8 @@ astral = "^3.2"
 plotly = "^5.20.0"
 catboost = "^1.2.3"
 shap = "^0.45.0"
+torch = "^2.2.2"
+pytorch-forecasting = "^1.0.0"
 
 
 [build-system]
