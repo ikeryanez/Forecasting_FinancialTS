@@ -1,0 +1,6 @@
+,eurusd,gbpusd,jpyusd
+Linear Regression,{},{},{}
+Random Forest,"{'n_estimators': 11, 'max_depth': 17}","{'n_estimators': 172, 'max_depth': 3}","{'n_estimators': 50, 'max_depth': 25}"
+XGBoost,"{'n_estimators': 140, 'max_depth': 2, 'learning_rate': 0.08491418958019878}","{'n_estimators': 113, 'max_depth': 2, 'learning_rate': 0.16576153186869771}","{'n_estimators': 112, 'max_depth': 4, 'learning_rate': 0.2115687911909412}"
+CatBoost,"{'iterations': 483, 'depth': 2, 'learning_rate': 0.1588627263068137}","{'iterations': 158, 'depth': 5, 'learning_rate': 0.22954720390050792}","{'iterations': 729, 'depth': 3, 'learning_rate': 0.07047619638632796}"
+LightGBM,"{'n_estimators': 57, 'num_leaves': 37, 'learning_rate': 0.17125782996257183}","{'n_estimators': 25, 'num_leaves': 22, 'learning_rate': 0.09501402459966128}","{'n_estimators': 94, 'num_leaves': 27, 'learning_rate': 0.2634572014543427}"
