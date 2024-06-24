@@ -23,6 +23,7 @@ pytorch-forecasting = "^1.0.0"
 xlrd = "^2.0.1"
 yfinance = "^0.2.40"
 seaborn = "^0.13.2"
+mlforecast = "^0.13.0"
 
 
 [build-system]
