@@ -24,6 +24,9 @@ xlrd = "^2.0.1"
 yfinance = "^0.2.40"
 seaborn = "^0.13.2"
 mlforecast = "^0.13.0"
+pydot = "^2.0.0"
+graphviz = "^0.20.3"
+pmdarima = "^2.0.4"
 
 
 [build-system]
